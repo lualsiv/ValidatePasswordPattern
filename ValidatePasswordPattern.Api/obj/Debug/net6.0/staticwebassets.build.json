@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6N0LzIw0x54QnBuzavFhxpVnqe2IwkT/D980sYI81+w=",
+  "Source": "ValidatePasswordPattern.Api",
+  "BasePath": "_content/ValidatePasswordPattern.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
